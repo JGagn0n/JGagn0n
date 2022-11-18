@@ -1,7 +1,6 @@
 - 👋 Hey, I’m Justin Gagnon. I'm primarily a mobile developer right now but I dabble in lots of other tech.
-- 🎮 I co-founded a video game studio named Sky Daddy Games!
-- 🎨 In my free time I paint tabletop miniatures for Warhammer AOS, Star Wars Legion, and Marvel Crisis Protocol.
-- 🌱 I’m currently learning Unreal Engine, VR via UE4, Python, and blockchain.
+- 🎨 In my free time I paint tabletop miniatures for Warhammer AOS and Star Wars Legion
+- 🌱 I’m currently learning Electron to build a collection app for retro games
 - 🐦 Find me on twitter [@JGagn0](https://twitter.com/jgagn0)
 - I'm not currently looking for contract work or a new position, but feel free to connect on [LinkedIn](www.linkedin.com/in/justin-gagnon-5155612a).
 
